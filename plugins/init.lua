@@ -11,6 +11,4 @@ return {
   ["chaoren/vim-wordmotion"] = {},
   ["michaeljsmith/vim-indent-object"] = {},
   ["itchyny/vim-cursorword"] = {},
-  ["neovim/nvim-lspconfig"] = {},
-  ["kabouzeid/nvim-lspinstall"] = {},
 }
